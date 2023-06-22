@@ -1,6 +1,6 @@
 # Python: Começando com a Linguagem
 
-Este é o repositório do curso "Python: Começando com a Linguagem" da Alura. Aqui estão as tarefas e projetos que realizei durante o curso, que me proporcionaram uma base sólida em programação Python.
+Este é o repositório do curso `"Python: Começando com a Linguagem"` da Alura, que faz parte da formação `"Python e Orientação a objetos"`. Aqui estão as tarefas e projetos que realizei durante o curso, que me proporcionaram uma base sólida em programação Python.
 
 ## Sobre o Curso
 
